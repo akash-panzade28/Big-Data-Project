@@ -15,3 +15,7 @@
 #### 3. Run app in your local web browser!
 
 `python3 run.py`
+
+
+#### Download Datasets from below link and extract:-
+link:- https://drive.google.com/drive/folders/1D8ZNTGeh50CRVpFkuJrOWVtZEsbXtBPO?usp=sharing
