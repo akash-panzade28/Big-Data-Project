@@ -1,0 +1,16 @@
+dash==1.18.1 
+Werkzeug==2.0.0
+pyarrow==7.0.0 
+pandas==1.4.1
+flask==2.0.3
+python-dotenv==0.19.2
+kaleido==0.2.1
+Pillow==9.0.1
+dash-deck==0.0.1
+pydeck==0.4.1 
+matplotlib==3.5.1
+gunicorn==20.0.4
+dash-extensions==0.0.58 
+dash-bootstrap-components==0.13.1
+xlrd==1.2.0
+xlsxwriter==1.4.4
